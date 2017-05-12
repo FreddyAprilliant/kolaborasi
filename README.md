@@ -1,4 +1,4 @@
-# kolaborasi
+
 Rochmad Adhi y(upstream)
-Suhindra(kolaborator)
-Fredy A(kolaborator)
+Suhindra(kontributor)
+Fredy A(kontributor)
